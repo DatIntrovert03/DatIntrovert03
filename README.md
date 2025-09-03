@@ -1,4 +1,4 @@
-# 👨‍💻 Abdul | Pragmatic Developer & Visual Storyteller
+# 👨‍💻 Abdul Mheta | Pragmatic Developer & Visual Storyteller
 
 Hi there! I'm Abdul — a solution-oriented developer blending backend precision with frontend elegance. I specialize in building dashboards, financial apps, and data-driven interfaces using:
 
