@@ -26,7 +26,7 @@ Hi there! I'm Abdul — a solution-oriented developer blending backend precision
 
 ### 📫 Let's Connect
 - 💼 [LinkedIn](www.linkedin.com/in/abdulmheta)
-- 🌐 [Portfolio](https://your-website.com)- 
+- 🌐 [Portfolio](https://your-website.com)
 ---
 
 > “Every pixel, every query, every commit — part of a bigger story.”
