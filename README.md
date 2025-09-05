@@ -19,7 +19,7 @@ Hi there! I'm Abdul — a solution-oriented developer blending backend precision
 - 🧠 Build intelligent apps with machine learning and predictive analytics
 - 📊 Design dashboards that tell stories through data
 - 🛠️ Architect secure, scalable backends with SQL Server & PostgreSQL
-- 🌐 Develop web apps using Flask, HTML/CSS/JS, and responsive design
+- 🌐 Develop web apps using HTML/CSS/JS, and responsive design
 - 🎨 Craft brand identities and UI/UX that resonate
 
 ---
